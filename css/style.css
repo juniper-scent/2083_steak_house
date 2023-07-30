@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width:98%;
+}
+.header {
+    background-image: url("../images/home-bg-slideshow1.jpg"), url("../images/home-bg-slideshow3.jpg"), url("../images/home-bg-slideshow2.jpg");
+    background-color: #ff7300;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
